@@ -1,8 +1,8 @@
-                        ## Machine Learning
+  ##                                        Machine Learning
                 
 When most people hear “Machine Learning,” they picture a robot: a dependable butler or a deadly Terminator depending on who you ask. But Machine Learning is not just a futuristic fantasy, it’s already here. In fact, it has been around for decades in some specialized applications, such as Optical Character Recognition (OCR). But the first MLapplication that really became mainstream, improving the lives of hundreds of millions of people, took over the world back in the 1990s: it was the spam filter. Not exactly a self-aware Skynet, but it does technically qualify as Machine Learning (it has actually learned so well that you seldom need to flag an email as spam anymore). It was followed by hundreds of MLapplications that now quietly power hundreds of products and features that you use regularly, from better recommendations to voice search.
 
-                       ## What Is Machine Learning?
+ ##                                         What Is Machine Learning?
 Machine Learning is the science (and art) of programming computers so they can learn from data.
 Here is a slightly more general definition:
 [Machine Learning is the] field of study that gives computers the ability to learn without being
@@ -14,7 +14,7 @@ A computer program is said to learn from experience E with respect to some task 
 performance measure P, if its performance on T, as measured by P, improves with experience E.
 Tom Mitchell, 1997
 
-                    ## Types of Machine Learning
+  ##                                            Types of Machine Learning
                     
 Machine Learning can be classified based different things:
 
