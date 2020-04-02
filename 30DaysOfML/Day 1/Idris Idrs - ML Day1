@@ -1,0 +1,17 @@
+What is Machine Learning?
+Machine learning is an aspect of data science that deals with the automation of analytical model building.
+Machine learning allows computers to find hidden insights without being explicitly programmed where to look.
+
+Types
+There are 3 main types of machine learning algorithms:
+- Supervised learning
+- Unsupervised learning
+- Reinforcement learning
+
+Uses
+Fraud detection
+Pricing models
+Customer segmentation
+Text-to-speech recognition
+Recommendation engines
+Email spam filtering etc
